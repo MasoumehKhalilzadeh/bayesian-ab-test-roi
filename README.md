@@ -20,10 +20,22 @@ This project performs a complete A/B test analysis on a dataset from an ad-tech 
 
 ### Derived Metrics:
 - **Conversion Rate** = `# of Purchase / # of Website Clicks`
-- **Total Revenue** (assumed `$50` per purchase)
+
+Conversion\ Rate = \frac{\text{Number of Purchases}}{\text{Website Clicks}}
+
 - **ROI** = `Total Revenue / Total Spend`
+  
+ROI = \frac{\text{Total Revenue}}{\text{Total Spend}}
+
 - **Revenue per Click** = `Total Revenue / Website Clicks`
 
+  Revenue\ Per\ Click = \frac{\text{Total Revenue}}{\text{Website Clicks}}
+
+- **Uplift**
+
+Uplift\ (\%) = \frac{\text{Test Metric} - \text{Control Metric}}{\text{Control Metric}} \times 100
+
+- **Total Revenue** (assumed `$50` per purchase)
 ---
 
 ## ⚙️ Methods Used
