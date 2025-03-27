@@ -124,14 +124,5 @@ The test group resulted in a **−10.37% ROI uplift**, meaning it underperformed
 Both statistical and business metrics clearly show that the **control group performs better** than the test group.  
 The test campaign results in **lower ROI, conversion rate, and revenue per click**.
 
-> 📌 **Recommendation:** Continue with the **control campaign** — avoid rolling out the test campaign.
 
----
 
-## 📂 Project Highlights
-- Real-world A/B testing dataset
-- Combination of statistical and business metrics
-- End-to-end workflow (data cleaning, modeling, visualization)
-- Ready for portfolio or presentation use
-
----
