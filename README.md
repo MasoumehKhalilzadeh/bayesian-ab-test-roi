@@ -119,10 +119,21 @@ The test group resulted in a **−10.37% ROI uplift**, meaning it underperformed
 
 ---
 
-## ✅ Conclusion
+## ✅ Conclusion & Business Insights
 
-Both statistical and business metrics clearly show that the **control group performs better** than the test group.  
-The test campaign results in **lower ROI, conversion rate, and revenue per click**.
+The A/B testing analysis of an advertising campaign revealed meaningful differences in both statistical and business metrics between the **control** and **test** groups.
 
+### 📉 Key Insights
+- The **control group had a higher conversion rate** (9.83% vs. 8.64%) with strong statistical significance (`p < 0.0001`) and a Bayesian posterior mean difference of **−1.18%**, with 95% of the posterior distribution below zero.
+- Although the test group achieved a slightly higher number of total purchases, it did so at a **higher cost**, resulting in:
+  - **−12.06% lower conversion efficiency**
+  - **−10.37% lower ROI**
+  - **−12.06% drop in revenue per click**
 
+### 💡 Interpretation
+The test campaign failed to improve the key performance indicators and, in fact, **reduced overall marketing efficiency**. This suggests that the proposed changes in the test variant—whether it's targeting, creative, or bidding strategy—may have introduced friction in the customer journey or attracted less qualified traffic.
 
+---
+
+### ✅ Recommendation
+> **Do not launch the test campaign**
