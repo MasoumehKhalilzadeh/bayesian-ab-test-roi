@@ -131,7 +131,7 @@ The A/B testing analysis of an advertising campaign revealed meaningful differen
   - **−12.06% drop in revenue per click**
 
 ### 💡 Interpretation
-The test campaign failed to improve the key performance indicators and, in fact, **reduced overall marketing efficiency**. This suggests that the proposed changes in the test variant—whether it's targeting, creative, or bidding strategy—may have introduced friction in the customer journey or attracted less qualified traffic.
+The test campaign failed to improve the key performance indicators and, in fact, **reduced overall marketing efficiency**. This suggests that the proposed changes in the test variant(whether it's targeting, creative, or bidding strategy)may have introduced friction in the customer journey or attracted less qualified traffic.
 
 ---
 
